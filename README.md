@@ -3,7 +3,7 @@ This dApp uses [CosmJs](https://tutorials.cosmos.network/tutorials/7-cosmjs/1-co
 
 ## Getting Started
 
-First, Clone this repo: `git clone: https://github.com/MITCHYUGAN/Send-Cudos-Token-Dapp-with-CosmJs.git`
+First, Clone this repo: `git clone https://github.com/MITCHYUGAN/Send-Cudos-Token-Dapp-with-CosmJs.git`
 
 Then, run the development server: cd Send-Cudos-Token-Dapp-with-CosmJs
 
